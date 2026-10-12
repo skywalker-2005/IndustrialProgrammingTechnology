@@ -1,0 +1,24 @@
+# Бинарники
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+helloapi/helloapi
+helloapi/helloapi.exe
+
+# Тестовые файлы
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Бэкап старого репозитория
+.git-helloapi-backup/
