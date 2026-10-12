@@ -22,3 +22,8 @@ Thumbs.db
 
 # Бэкап старого репозитория
 .git-helloapi-backup/
+
+/bin/
+/dist/
+/coverage.out
+*.log
